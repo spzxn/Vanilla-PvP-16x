@@ -1,0 +1,44 @@
+======================================================================
+                   RESOURCE PACK TERMS OF USE (LICENSE)
+======================================================================
+
+Pack Name: Vanilla PvP 16x
+Author:    spzxn
+Version:   1.0
+
+This document defines the rules for using this resource pack.
+By downloading and installing this pack, you automatically agree 
+to the terms listed below. Please respect the author's work!
+
+----------------------------------------------------------------------
+1. ALLOWED (What you can do):
+----------------------------------------------------------------------
+* Use this resource pack in-game for personal enjoyment.
+* Use the pack in live streams and videos on YouTube, Twitch, TikTok, 
+  and other platforms (crediting the author or providing a link 
+  in the description is highly appreciated!).
+* Modify any textures (swords, armor, crosshair, sky) inside the pack 
+  FOR PERSONAL USE ONLY, without public redistribution of the edited version.
+
+----------------------------------------------------------------------
+2. PROHIBITED (What you cannot do):
+----------------------------------------------------------------------
+* Sell this resource pack or any of its individual elements (textures) 
+  for real money, donations, or in-game currency.
+* Reupload (repost) this pack to third-party websites, forums, 
+  Discord servers, or Telegram channels under your own name.
+* Steal, rip, or "borrow" custom textures (especially the space skybox, 
+  crosshair, and swords) to use them in your own public resource packs 
+  without explicit permission from the author.
+
+----------------------------------------------------------------------
+3. DISCLAIMER:
+----------------------------------------------------------------------
+The resource pack is provided "as is". The author is not responsible 
+for any potential bugs, conflicts with other packs, or game 
+performance issues on your device.
+
+----------------------------------------------------------------------
+Author Contacts: Telegram: @spzxn | Discord: spzxn
+======================================================================
+Thank you for following the rules and have fun playing!

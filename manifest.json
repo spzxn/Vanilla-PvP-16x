@@ -1,0 +1,18 @@
+{
+  "format_version": 2,
+  "header": {
+    "description": "§a§lVanilla §c§lPvP §016x §1§lTexture §1§lPack by spzxn",
+    "name": "§a§lVanilla §c§lPvP §0§l16x",
+    "uuid": "b8a4f92d-5c1a-4d76-bf10-8a2b53f7c91e",
+    "version": [0, 1, 0],
+    "min_engine_version": [1, 20, 0]
+  },
+  "modules": [
+    {
+      "description": "§a§lVanilla §c§lPvP §0§l16x §1§lTexture §1§lPack by spzxn",
+      "type": "resources",
+      "uuid": "4e7c3d1b-9a2f-4b63-8d1e-5c7a2b9f3d4e",
+      "version": [0, 1, 0]
+    }
+  ]
+}
